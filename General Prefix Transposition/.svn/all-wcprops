@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8/trunk/%20prefix-transposition/General%20Prefix%20Transposition
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8/trunk/%20prefix-transposition/General%20Prefix%20Transposition/test.txt
+END
+NewGenPrefix.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8/trunk/%20prefix-transposition/General%20Prefix%20Transposition/NewGenPrefix.java
+END
