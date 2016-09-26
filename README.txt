@@ -1,3 +1,7 @@
+Please cite the following paper:
+
+Md. Shafiqul Islam, Md. Khaledur Rahman and M. Sohel Rahman, "2-approximation algorithm of sorting by prefix transposition revisited", In 2nd Proceedings of ICIEV, April, 2013, Bangladesh.
+
 Tools Need to Download:
 	1. JCreator Pro 4.5
 		Download Link: http://www.jcreator.com/download.htm
